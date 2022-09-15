@@ -1,0 +1,118 @@
+.p-3{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 24px;
+    color: black;
+}
+.btn-link3{
+  
+  color: white;
+  background-color: #21B573;
+  font-size: 14px;
+font-weight: 600;
+border-radius: 20px;
+
+
+
+
+
+    
+
+}
+.lorem{
+    color: #6C6B6B
+    ;
+}
+.btn-link{
+color: white;
+padding: 12px 35px;
+background-color: #21B573;
+border: none;
+border-radius: 33px;
+text-align: center;
+text-decoration: none;
+
+
+
+
+}
+
+.btn-link:hover{
+color: white;}
+
+.banner2{
+    padding-top: 50px;
+    padding-right: 40px;
+    background-color: #F0FFF0;
+}
+.green-color{
+    color: #21B573
+    ;
+   
+}
+.learn{
+    font-weight: 800;
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+.illusimage{
+    width: 100%;
+}
+.card-img-top{
+    height: 50%;
+
+    padding-top: 20px;
+    padding:10px;
+    width: 50%;
+   
+}
+.container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.box{
+    box-shadow: 10px 10px 50px rgb(92, 88, 88);
+}
+.col{
+    border: none;
+}
+.online{
+    font-size: 36px;
+    font-weight: 700;
+    color: #413960;
+    text-align: center;
+}
+.card-img-top1{
+    width: 100%;
+}
+.menimg{
+    width: 50%;
+}
+.Testimonial{
+    color: black;
+    font-weight: 700;
+    font-family: 'poppins';
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.footer{
+
+
+    height: 100%;
+    width: 100%;
+    background-color: #282531
+    ;
+
+}
+.white-cl{
+    color: white;
+}
+.copyright{
+    text-align: center;
+    padding-top: 100px;
+}
